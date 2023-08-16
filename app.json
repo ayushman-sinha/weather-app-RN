@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e9a47478-cc00-4cfe-bb07-e552cf87c6ed"
+      }
+    },
+    "owner": "ayushman_sinha"
   }
 }
